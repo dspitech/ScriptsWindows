@@ -245,7 +245,7 @@ Vous pouvez adapter le script selon vos besoins :
 
 ## Licence
 
-Ce projet est proposé sous licence **MIT** (ou autre licence de votre choix).  
+Ce projet est proposé sous licence **MIT**.  
 Adaptez cette section en fonction de la licence que vous souhaitez utiliser et ajoutez idéalement un fichier `LICENSE` à la racine du dépôt.
 
 ## Support & Contributions
